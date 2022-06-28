@@ -1,0 +1,56 @@
+.header {
+    height: 64px;
+    background-color: #414141;
+    display: flex;
+}
+
+.header-top {
+   margin-top: 19px !important;
+}
+
+.logo img {
+    width: 109px;
+    height: 40px;
+}
+
+.menu {
+    display: flex;
+}
+.menu-item {
+    margin: 0 19px;
+    display: flex;
+    position: relative;
+}
+
+.menu-item .icon {
+    background-color: var(--primary-400);
+}
+
+
+.menu-item .account {
+    position: absolute;
+    width: 16px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: var(--primary-400);
+    left:20px;
+    z-index: 5;
+}
+
+.menu-item .account .number-account {
+    position: absolute;
+    left: 5px;
+    bottom: -1px;
+    font-size: 11px;
+    color: var(--light);
+}
+
+.menu-item .icon-menu {
+    margin-left: 35px;
+}
+
+.menu-item a {
+    color: var(--light);
+    margin-left: 8px;
+    margin-top: 3px;
+}

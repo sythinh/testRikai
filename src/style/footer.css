@@ -1,0 +1,19 @@
+.footer {
+    margin-top: 100px;
+    height: 128px;
+    background-color: #414141;
+}
+
+.footer-menu {
+    display: flex;
+    padding-left: 0;
+}
+
+.footer-menu .item {
+    margin: 56px 44px 56px 0px;
+}
+
+.footer-menu .item a {
+    color: var(--light) !important;
+    font-size: 11px;
+}

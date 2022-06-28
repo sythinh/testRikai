@@ -4,6 +4,10 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+.container {
+    max-width: 960px !important;
+}
+
 .icon-challenge {
     -webkit-mask: url('../image/icon_challenge.svg') no-repeat 50% 50%;
     width: 32px;

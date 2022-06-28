@@ -12,28 +12,26 @@ const Header: FC = () => {
           </div>
 
           <div className="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-            <nav className="nav">
-              <ul className="menu">
-                <li className="menu-item">
-                  <div className="icon icon-memo"></div>
-                  <a href="">自分の記録</a>
-                </li>
-                <li className="menu-item">
-                  <div className="icon icon-challenge"></div>
-                  <a href="">チャレンジ</a>
-                </li>
-                <li className="menu-item">
-                  <div className="icon icon-info"></div>
-                  <div className="account">
-                    <span className="number-account">1</span>
-                  </div>
-                  <a href="">お知らせ</a>
-                </li>
-                <li className="menu-item">
-                  <div className="icon icon-menu"></div>
-                </li>
-              </ul>
-            </nav>
+            <ul className="menu">
+              <li className="menu-item">
+                <div className="icon icon-memo"></div>
+                <a href="">自分の記録</a>
+              </li>
+              <li className="menu-item">
+                <div className="icon icon-challenge"></div>
+                <a href="">チャレンジ</a>
+              </li>
+              <li className="menu-item">
+                <div className="icon icon-info"></div>
+                <div className="account">
+                  <span className="number-account">1</span>
+                </div>
+                <a href="">お知らせ</a>
+              </li>
+              <li className="menu-item">
+                <div className="icon icon-menu"></div>
+              </li>
+            </ul>
           </div>
         </div>
       </div>

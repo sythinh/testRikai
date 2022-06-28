@@ -11,19 +11,25 @@
 .logo img {
     width: 109px;
     height: 40px;
+    margin-left: 30px;
 }
 
 .menu {
     display: flex;
+    justify-content: flex-end;
 }
 .menu-item {
-    margin: 0 10px;
+    margin-right: 10px;
     display: flex;
     position: relative;
 }
 
 .menu-item .icon {
     background-color: var(--primary-400);
+}
+
+.menu-item .icon-menu {
+    margin-right: -30px;
 }
 
 
@@ -46,7 +52,7 @@
 }
 
 .menu-item .icon-menu {
-    margin-left: 35px;
+    margin-left: 48px;
 }
 
 .menu-item a {

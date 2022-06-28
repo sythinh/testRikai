@@ -26,7 +26,7 @@ const Header: FC = () => {
                 <div className="account">
                   <span className="number-account">1</span>
                 </div>
-                <a href="">お知らせ</a>
+                <a href="/about">お知らせ</a>
               </li>
               <li className="menu-item">
                 <div className="icon icon-menu"></div>

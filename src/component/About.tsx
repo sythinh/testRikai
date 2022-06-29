@@ -25,8 +25,8 @@ const About: FC = () => {
         <div className="news">
           <div className="row">
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image1.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image1.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -38,8 +38,8 @@ const About: FC = () => {
               </div>
             </div>
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image2.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image2.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -51,8 +51,8 @@ const About: FC = () => {
               </div>
             </div>
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image3.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image3.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -64,8 +64,8 @@ const About: FC = () => {
               </div>
             </div>
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image4.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image4.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -77,8 +77,8 @@ const About: FC = () => {
               </div>
             </div>
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image1.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image1.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -90,8 +90,8 @@ const About: FC = () => {
               </div>
             </div>
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image2.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image2.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -103,8 +103,8 @@ const About: FC = () => {
               </div>
             </div>
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image3.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image3.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -116,8 +116,8 @@ const About: FC = () => {
               </div>
             </div>
             <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3 news-item">
-              <div className="feature-image">
-                <img src="src/image/image4.png" alt="image1" />
+              <div className="feature-images">
+                <img src="src/images/image4.png" alt="images1" />
                 <span className="time">2021.05.17 23:25</span>
               </div>
               <div className="content">
@@ -133,7 +133,7 @@ const About: FC = () => {
         <div className="load-news">
           <button className="btn ">コラムをもっと見る</button>
           <div className="scroll-top">
-            <img src="src/image/component_scroll.png" alt="" />
+            <img src="src/images/component_scroll.png" alt="" />
           </div>
         </div>
       </div>

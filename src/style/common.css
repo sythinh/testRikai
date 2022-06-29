@@ -10,25 +10,25 @@ body {
 }
 
 .icon-challenge {
-    -webkit-mask: url('../image/icon_challenge.svg') no-repeat 50% 50%;
+    -webkit-mask: url('../images/icon_challenge.svg') no-repeat 50% 50%;
     width: 32px;
     height: 32px;
 }
 
 .icon-memo {
-    -webkit-mask: url('../image/icon_memo.svg') no-repeat 50% 50%;
+    -webkit-mask: url('../images/icon_memo.svg') no-repeat 50% 50%;
     width: 32px;
     height: 32px;
 }
 
 .icon-info {
-    -webkit-mask: url('../image/icon_info.svg') no-repeat 50% 50%;
+    -webkit-mask: url('../images/icon_info.svg') no-repeat 50% 50%;
     width: 32px;
     height: 32px;
 }
 
 .icon-menu {
-    -webkit-mask: url('../image/icon_menu.svg') no-repeat 50% 50%;
+    -webkit-mask: url('../images/icon_menu.svg') no-repeat 50% 50%;
     width: 32px;
     height: 32px;
 }

@@ -7,7 +7,7 @@ const Header: FC = () => {
         <div className="row header-top">
           <div className="col-xs-5 col-sm-5 col-md-5 col-lg-5">
             <div className="logo">
-              <img src="./src/image/logo.png" alt="logo" />
+              <img src="./src/images/logo.png" alt="logo" />
             </div>
           </div>
 
@@ -15,7 +15,7 @@ const Header: FC = () => {
             <ul className="menu">
               <li className="menu-item">
                 <div className="icon icon-memo"></div>
-                <a href="">自分の記録</a>
+                <a href="/">自分の記録</a>
               </li>
               <li className="menu-item">
                 <div className="icon icon-challenge"></div>

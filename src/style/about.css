@@ -47,16 +47,16 @@
     width: 234px;
 }
 
-.news-item .feature-image img {
+.news-item .feature-images img {
     width: 234px;
     height: 144px;
 }
 
-.feature-image {
+.feature-images {
     position: relative;
 }
 
-.feature-image .time {
+.feature-images .time {
     position: absolute;
     bottom: 0;
     background-color: var(--primary-300);

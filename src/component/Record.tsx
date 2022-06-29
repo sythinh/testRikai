@@ -8,7 +8,7 @@ const Record: FC = () => {
           <div className="row">
             <div className="col-xs-4 col-sm-4 col-md-4 col-lg-4 item">
               <div className="content">
-                <img src="src/image/body_image.png" alt="body-image" />
+                <img src="src/images/body_image.png" alt="body-imagess" />
                 <div className="desc">
                   <h1 className="title">BODY RECORD</h1>
                   <p className="name">自分のカラダの記録</p>
@@ -17,7 +17,7 @@ const Record: FC = () => {
             </div>
             <div className="col-xs-4 col-sm-4 col-md-4 col-lg-4 item">
               <div className="content">
-                <img src="src/image/exercise.png" alt="exercise" />
+                <img src="src/images/exercise.png" alt="exercise" />
                 <div className="desc">
                   <h1 className="title">MY EXERCISE</h1>
                   <p className="name">自分の運動の記録</p>
@@ -26,7 +26,7 @@ const Record: FC = () => {
             </div>
             <div className="col-xs-4 col-sm-4 col-md-4 col-lg-4 item">
               <div className="content">
-                <img src="src/image/diary_image.png" alt="diary_image" />
+                <img src="src/images/diary_image.png" alt="diary_images" />
                 <div className="desc">
                   <h1 className="title">MY DIARY</h1>
                   <p className="name">自分の日記</p>
@@ -288,7 +288,7 @@ const Record: FC = () => {
         <div className="record-news">
           <button className="btn ">コラムをもっと見る</button>
           <div className="scroll-top">
-            <img src="src/image/component_scroll.png" alt="" />
+            <img src="src/images/component_scroll.png" alt="" />
           </div>
         </div>
       </div>

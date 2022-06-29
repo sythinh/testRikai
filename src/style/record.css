@@ -208,3 +208,17 @@
     font-size: 12px;
     line-height: 17px;
 }
+
+
+.record-news  {
+    text-align: center;
+    margin-bottom: 64px;
+}
+
+.record-news .btn {
+    padding: 14px 66px;
+    font-size: 18px;
+    background: var(--primary-300-400);
+    border: none;
+    color: var(--light);
+}

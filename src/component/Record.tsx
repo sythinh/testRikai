@@ -285,6 +285,12 @@ const Record: FC = () => {
             </div>
           </div>
         </div>
+        <div className="record-news">
+          <button className="btn ">コラムをもっと見る</button>
+          <div className="scroll-top">
+            <img src="src/image/component_scroll.png" alt="" />
+          </div>
+        </div>
       </div>
     </div>
   );

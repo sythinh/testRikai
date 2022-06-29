@@ -19,7 +19,7 @@ const Header: FC = () => {
               </li>
               <li className="menu-item">
                 <div className="icon icon-challenge"></div>
-                <a href="">チャレンジ</a>
+                <a href="/record">チャレンジ</a>
               </li>
               <li className="menu-item">
                 <div className="icon icon-info"></div>

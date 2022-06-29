@@ -11,7 +11,7 @@
 .logo img {
     width: 109px;
     height: 40px;
-    margin-left: 30px;
+    margin-left: 16px;
 }
 
 .menu {
@@ -29,7 +29,7 @@
 }
 
 .menu-item .icon-menu {
-    margin-right: -30px;
+    margin-right: -25px;
 }
 
 
@@ -64,5 +64,4 @@
 
 .menu-item a:active {
     color: var(--primary-400);
-
 }
